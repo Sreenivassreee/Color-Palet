@@ -18,11 +18,9 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-Dinesh
-Sreenivas
-Ragav 
-Naveen
-daamu
-Harsha
-=======
->>>>>>> 82349de793db7f6023a6bd97ea08848d98045902
+Dinesh<br>
+Sreenivas<br>
+Ragav <br>
+Naveen<br>
+daamu<br>
+Harsha<br>
